@@ -1,0 +1,195 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Nicholas/Documents/Koding/VHDL/Kuliah/MultiCycleMulti
+Efilehandling
+Z0 w1703418425
+Z1 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 290
+Z5 dC:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro
+Z6 8C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/FileHandling.vhd
+Z7 FC:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/FileHandling.vhd
+l0
+L7 1
+VN0[aM;R6cIASLKf0CNYE01
+!s100 QU7ckd<:W?P<[4N6geQ8X0
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1703421997
+!i10b 1
+Z10 !s108 1703421997.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/FileHandling.vhd|
+Z12 !s107 C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/FileHandling.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 12 filehandling 0 22 N0[aM;R6cIASLKf0CNYE01
+!i122 290
+l16
+L15 41
+V[IzhW?;KE;4@F<M6A@^Jb2
+!s100 ?Mo`LI6hg^Q0Lh9AIf`LE0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emain
+Z15 w1703421798
+R1
+Z16 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z17 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R3
+R4
+!i122 288
+R5
+Z18 8C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/Main.vhd
+Z19 FC:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/Main.vhd
+l0
+L8 1
+V?J7[Yc04`XPdf4e[UM0G]1
+!s100 9W1l:b2U6UcK69ji2T3T=0
+R8
+32
+R9
+!i10b 1
+R10
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/Main.vhd|
+Z21 !s107 C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/Main.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R16
+R17
+R3
+R4
+DEx4 work 4 main 0 22 ?J7[Yc04`XPdf4e[UM0G]1
+!i122 288
+l121
+L21 171
+VlcAZ0T^nJ0=:BSKT48Ian1
+!s100 noPX[16=QE7i8@Jnkn;VC1
+R8
+32
+R9
+!i10b 1
+R10
+R20
+R21
+!i113 1
+R13
+R14
+Epasscode_tb
+Z22 w1703421992
+R1
+R16
+R17
+R3
+R4
+!i122 291
+R5
+Z23 8C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/Passcode_tb.vhd
+Z24 FC:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/Passcode_tb.vhd
+l0
+L9 1
+V9<TR1h:I<^QQG79h^_3<O3
+!s100 HBBVXMM5OVCYC@fWKWGkE1
+R8
+32
+R9
+!i10b 1
+R10
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/Passcode_tb.vhd|
+Z26 !s107 C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/Passcode_tb.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R16
+R17
+R3
+R4
+Z27 DEx4 work 11 passcode_tb 0 22 9<TR1h:I<^QQG79h^_3<O3
+!i122 291
+l34
+L12 86
+VaGTd=L>QR;IfZLQ41]^OM3
+!s100 jE6FY2N8La3Jk1F@d;GPH2
+R8
+32
+R9
+!i10b 1
+R10
+R25
+R26
+!i113 1
+R13
+R14
+Erandomkey
+Z28 w1703349209
+Z29 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+R2
+R3
+R4
+!i122 289
+R5
+Z30 8C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/RandomKey.vhd
+Z31 FC:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/RandomKey.vhd
+l0
+L7 1
+V9RIaO0JbTQ0@GX[hzZVoo3
+!s100 K:Al71UYm3M`^He;A`Mb70
+R8
+32
+R9
+!i10b 1
+R10
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/RandomKey.vhd|
+Z33 !s107 C:/Users/Nicholas/Documents/Koding/VHDL/Praktikum/FinPro/RandomKey.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R29
+R2
+R3
+R4
+DEx4 work 9 randomkey 0 22 9RIaO0JbTQ0@GX[hzZVoo3
+!i122 289
+l15
+L14 51
+VOIkidnj9h>z8EERX`mlQX2
+!s100 9E16CFY5D=7[5jo`4=J5;2
+R8
+32
+R9
+!i10b 1
+R10
+R32
+R33
+!i113 1
+R13
+R14

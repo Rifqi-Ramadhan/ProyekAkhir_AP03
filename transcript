@@ -1,0 +1,129 @@
+# Compile of Main.vhd was successful with warnings.
+# Compile of RandomKey.vhd was successful.
+# Compile of FileHandling.vhd was successful.
+# Compile of Passcode_tb.vhd failed with 1 errors.
+# 4 compiles, 1 failed with 1 error.
+# Compile of Main.vhd was successful with warnings.
+# Compile of RandomKey.vhd was successful.
+# Compile of FileHandling.vhd was successful.
+# Compile of Passcode_tb.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.passcode_tb
+# vsim -gui work.passcode_tb 
+# Start time: 19:45:53 on Dec 24,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.passcode_tb(rtl)
+# Loading work.main(behavioral)
+# Loading ieee.numeric_std(body)
+# Loading ieee.math_real(body)
+# Loading work.randomkey(behavior)
+# Loading work.filehandling(rtl)
+add wave -position insertpoint sim:/passcode_tb/*
+run -all
+# ** Note: Yl?WvX\!|||zTkvVFGW
+#    Time: 1900 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ;GCS7^An|||RZmbhAbK
+#    Time: 1900 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ANJAY MASUK
+#    Time: 2 ns  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Yl?WvX\!|||zTkvVFGW
+#    Time: 2300 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ;GCS7^An|||RZmbhAbK
+#    Time: 2300 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Q9iSrE}a|||cfqgBXxv
+#    Time: 2300 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: jXbaImJW|||qKCvnytK
+#    Time: 2300 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: BJIR SALAH
+#    Time: 2400 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Yl?WvX\!|||zTkvVFGW
+#    Time: 2700 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ;GCS7^An|||RZmbhAbK
+#    Time: 2700 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Q9iSrE}a|||cfqgBXxv
+#    Time: 2700 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: jXbaImJW|||qKCvnytK
+#    Time: 2700 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: BJIR SALAH
+#    Time: 2800 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Yl?WvX\!|||zTkvVFGW
+#    Time: 3100 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ;GCS7^An|||RZmbhAbK
+#    Time: 3100 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Q9iSrE}a|||cfqgBXxv
+#    Time: 3100 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: jXbaImJW|||qKCvnytK
+#    Time: 3100 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ANJAY MASUK
+#    Time: 3200 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: All passcode has been deleted
+#    Time: 3400 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# Compile of Main.vhd was successful with warnings.
+# Compile of RandomKey.vhd was successful.
+# Compile of FileHandling.vhd was successful.
+# Compile of Passcode_tb.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.passcode_tb
+# End time: 19:46:41 on Dec 24,2023, Elapsed time: 0:00:48
+# Errors: 0, Warnings: 3
+# vsim -gui work.passcode_tb 
+# Start time: 19:46:41 on Dec 24,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.passcode_tb(rtl)
+# Loading work.main(behavioral)
+# Loading ieee.numeric_std(body)
+# Loading ieee.math_real(body)
+# Loading work.randomkey(behavior)
+# Loading work.filehandling(rtl)
+add wave -position insertpoint sim:/passcode_tb/*
+run -all
+# ** Note: Yl?WvX\!|||zTkvVFGW
+#    Time: 1900 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ;GCS7^An|||RZmbhAbK
+#    Time: 1900 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ANJAY MASUK
+#    Time: 2 ns  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Yl?WvX\!|||zTkvVFGW
+#    Time: 2300 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ;GCS7^An|||RZmbhAbK
+#    Time: 2300 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Q9iSrE}a|||cfqgBXxv
+#    Time: 2300 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: jXbaImJW|||qKCvnytK
+#    Time: 2300 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: BJIR SALAH
+#    Time: 2400 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Yl?WvX\!|||zTkvVFGW
+#    Time: 2700 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ;GCS7^An|||RZmbhAbK
+#    Time: 2700 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Q9iSrE}a|||cfqgBXxv
+#    Time: 2700 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: jXbaImJW|||qKCvnytK
+#    Time: 2700 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: BJIR SALAH
+#    Time: 2800 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Yl?WvX\!|||zTkvVFGW
+#    Time: 3100 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ;GCS7^An|||RZmbhAbK
+#    Time: 3100 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: Q9iSrE}a|||cfqgBXxv
+#    Time: 3100 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: jXbaImJW|||qKCvnytK
+#    Time: 3100 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: ANJAY MASUK
+#    Time: 3200 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# ** Note: All passcode has been deleted
+#    Time: 3400 ps  Iteration: 1  Instance: /passcode_tb/MAIN_UUT
+# End time: 19:47:15 on Dec 24,2023, Elapsed time: 0:00:34
+# Errors: 0, Warnings: 2
